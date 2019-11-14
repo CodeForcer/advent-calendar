@@ -1,0 +1,23 @@
+{
+  "name": "advent-nft",
+  "version": "1.0.0",
+  "description": "Advent calendar smart contract for LCS NFT token",
+  "main": "networks.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.5.3",
+    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/contracts-ethereum-package": "^2.3.0",
+    "@openzeppelin/upgrades": "^2.5.3",
+    "ganache-cli": "^6.7.0",
+    "truffle": "^5.0.43",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

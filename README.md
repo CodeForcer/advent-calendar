@@ -1,0 +1,1 @@
+# Smart contracts for the LocalCoinSwap advent calendar giveaway
