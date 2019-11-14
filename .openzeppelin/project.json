@@ -1,7 +1,15 @@
 {
   "manifestVersion": "2.2",
-  "contracts": {},
+  "contracts": {
+    "LocalCoinSwapChristmasGift": "LocalCoinSwapChristmasGift"
+  },
   "dependencies": {},
   "name": "advent-nft",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "compiler": {
+    "manager": "truffle",
+    "compilerSettings": {
+      "optimizer": {}
+    }
+  }
 }
