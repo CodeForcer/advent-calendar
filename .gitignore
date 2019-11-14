@@ -4,6 +4,7 @@ build/*
 .openzeppelin/.session
 .openzeppelin/d*
 .openzeppelin/.lock
+secrets.json
 
 # Logs
 logs
